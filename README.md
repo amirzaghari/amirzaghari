@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm an experienced software engineer specializing 
 
 ### Backend Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Yii](https://img.shields.io/badge/Yii-007FAA?style=for-the-badge&logo=yiiframework&logoColor=white)
